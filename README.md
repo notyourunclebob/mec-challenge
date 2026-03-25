@@ -21,5 +21,7 @@ The flag is only available with a premium account but paying for it is out of th
     - Run
     - > ./start.sh
 
+    - Select yes to create a new database
+      
 4. Open in browser
     - > localhost:8080
